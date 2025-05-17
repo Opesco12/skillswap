@@ -1,0 +1,48 @@
+SkillSwap: Complete Feature List
+
+User Authentication & Management
+
+Registration/login 
+User profile creation with skills offered/needed
+Profile verification (basic)
+Account settings and preferences
+
+
+Skill Marketplace
+
+Browse available skills by category
+Search with filters (location, skill type, availability)
+Skill listing details with descriptions and examples
+
+
+Exchange System
+
+Propose skill exchanges with specific terms
+Accept/decline/counter exchange proposals
+Schedule coordination for exchanges
+Reference material uploads for exchanges
+Exchange status tracking (pending, accepted, completed)
+History of all past exchanges
+Exchange completion confirmation
+
+
+Trust & Rating System
+
+User ratings after completed exchanges
+Reviews and testimonials
+Trust score calculation
+Public user profile with ratings history
+
+
+Communication
+
+In-app messaging between users
+Chat history preservation
+Exchange-specific communication threads
+Notification preferences
+
+
+Notification System
+
+Push notifications for exchange updates
+Message alerts
